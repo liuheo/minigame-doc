@@ -24,3 +24,7 @@
 
   
 - [快应用](https://gamedoc.quickapp.cn/)
+
+- [4399小游戏](https://open.4399.cn/applet/docs/developer/index.html#/guide/startedguide)
+
+- [好游快爆小游戏](https://open.3839.com/applet/docs/developer/index.html#/guide/startedguide)
