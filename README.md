@@ -6,7 +6,7 @@
   
 - [字节小游戏](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/bytedance-mini-game)
   
-- [快手小游戏](https://ks-game-docs.kuaishou.com/minigame/start/start.html)
+- [快手小游戏]([https://ks-game-docs.kuaishou.com/minigame/start/start.html](https://open.kuaishou.com/miniGameDocs/gameIntroduction/entryGuide.html))
 
 - [京东小游戏](https://mp-docs.jd.com/doc/minigame/introduce/-1)
   
